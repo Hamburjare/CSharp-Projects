@@ -1,0 +1,16 @@
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\bin\Debug\net5.0\The Robot Namer 5000.exe
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\bin\Debug\net5.0\The Robot Namer 5000.deps.json
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\bin\Debug\net5.0\The Robot Namer 5000.runtimeconfig.json
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\bin\Debug\net5.0\The Robot Namer 5000.runtimeconfig.dev.json
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\bin\Debug\net5.0\The Robot Namer 5000.dll
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\bin\Debug\net5.0\ref\The Robot Namer 5000.dll
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\bin\Debug\net5.0\The Robot Namer 5000.pdb
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.csproj.AssemblyReference.cache
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.GeneratedMSBuildEditorConfig.editorconfig
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.AssemblyInfoInputs.cache
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.AssemblyInfo.cs
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.csproj.CoreCompileInputs.cache
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.dll
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\obj\Debug\net5.0\ref\The Robot Namer 5000.dll
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.pdb
+E:\!!koodaajan märkä uni\The Robot Namer 5000\The Robot Namer 5000\obj\Debug\net5.0\The Robot Namer 5000.genruntimeconfig.cache

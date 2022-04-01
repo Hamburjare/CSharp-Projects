@@ -1,0 +1,16 @@
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\bin\Debug\net5.0\Pizzatilaus.exe
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\bin\Debug\net5.0\Pizzatilaus.deps.json
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\bin\Debug\net5.0\Pizzatilaus.runtimeconfig.json
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\bin\Debug\net5.0\Pizzatilaus.runtimeconfig.dev.json
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\bin\Debug\net5.0\Pizzatilaus.dll
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\bin\Debug\net5.0\ref\Pizzatilaus.dll
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\bin\Debug\net5.0\Pizzatilaus.pdb
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\obj\Debug\net5.0\Pizzatilaus.csproj.AssemblyReference.cache
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\obj\Debug\net5.0\Pizzatilaus.GeneratedMSBuildEditorConfig.editorconfig
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\obj\Debug\net5.0\Pizzatilaus.AssemblyInfoInputs.cache
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\obj\Debug\net5.0\Pizzatilaus.AssemblyInfo.cs
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\obj\Debug\net5.0\Pizzatilaus.csproj.CoreCompileInputs.cache
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\obj\Debug\net5.0\Pizzatilaus.dll
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\obj\Debug\net5.0\ref\Pizzatilaus.dll
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\obj\Debug\net5.0\Pizzatilaus.pdb
+E:\!!koodaajan märkä uni\Pizzatilaus\Pizzatilaus\obj\Debug\net5.0\Pizzatilaus.genruntimeconfig.cache

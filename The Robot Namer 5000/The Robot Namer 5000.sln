@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Robot Namer 5000", "The Robot Namer 5000\The Robot Namer 5000.csproj", "{89F672FC-01DA-438F-B4D0-511B023B8FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F672FC-01DA-438F-B4D0-511B023B8FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F672FC-01DA-438F-B4D0-511B023B8FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F672FC-01DA-438F-B4D0-511B023B8FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F672FC-01DA-438F-B4D0-511B023B8FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB93CDB7-1A7A-4756-8C12-5804D7612341}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\bin\Debug\net5.0\Valtakuntien Herruus.exe
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\bin\Debug\net5.0\Valtakuntien Herruus.deps.json
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\bin\Debug\net5.0\Valtakuntien Herruus.runtimeconfig.json
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\bin\Debug\net5.0\Valtakuntien Herruus.runtimeconfig.dev.json
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\bin\Debug\net5.0\Valtakuntien Herruus.dll
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\bin\Debug\net5.0\ref\Valtakuntien Herruus.dll
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\bin\Debug\net5.0\Valtakuntien Herruus.pdb
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\obj\Debug\net5.0\Valtakuntien Herruus.csproj.AssemblyReference.cache
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\obj\Debug\net5.0\Valtakuntien Herruus.GeneratedMSBuildEditorConfig.editorconfig
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\obj\Debug\net5.0\Valtakuntien Herruus.AssemblyInfoInputs.cache
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\obj\Debug\net5.0\Valtakuntien Herruus.AssemblyInfo.cs
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\obj\Debug\net5.0\Valtakuntien Herruus.csproj.CoreCompileInputs.cache
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\obj\Debug\net5.0\Valtakuntien Herruus.dll
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\obj\Debug\net5.0\ref\Valtakuntien Herruus.dll
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\obj\Debug\net5.0\Valtakuntien Herruus.pdb
+E:\!!koodaajan märkä uni\Valtakuntien Herruus\Valtakuntien Herruus\obj\Debug\net5.0\Valtakuntien Herruus.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kelts\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kelts\\.nuget\\packages"
+    ]
+  }
+}

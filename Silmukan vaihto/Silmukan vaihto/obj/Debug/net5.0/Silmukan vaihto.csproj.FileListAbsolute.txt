@@ -1,0 +1,16 @@
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\bin\Debug\net5.0\Silmukan vaihto.exe
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\bin\Debug\net5.0\Silmukan vaihto.deps.json
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\bin\Debug\net5.0\Silmukan vaihto.runtimeconfig.json
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\bin\Debug\net5.0\Silmukan vaihto.runtimeconfig.dev.json
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\bin\Debug\net5.0\Silmukan vaihto.dll
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\bin\Debug\net5.0\Silmukan vaihto.pdb
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\obj\Debug\net5.0\Silmukan vaihto.csproj.AssemblyReference.cache
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\obj\Debug\net5.0\Silmukan vaihto.GeneratedMSBuildEditorConfig.editorconfig
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\obj\Debug\net5.0\Silmukan vaihto.AssemblyInfoInputs.cache
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\obj\Debug\net5.0\Silmukan vaihto.AssemblyInfo.cs
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\obj\Debug\net5.0\Silmukan vaihto.csproj.CoreCompileInputs.cache
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\obj\Debug\net5.0\Silmukan vaihto.dll
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\obj\Debug\net5.0\refint\Silmukan vaihto.dll
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\obj\Debug\net5.0\Silmukan vaihto.pdb
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\obj\Debug\net5.0\Silmukan vaihto.genruntimeconfig.cache
+A:\!!koodaajan märkä uni\C# Projects\Silmukan vaihto\Silmukan vaihto\obj\Debug\net5.0\ref\Silmukan vaihto.dll

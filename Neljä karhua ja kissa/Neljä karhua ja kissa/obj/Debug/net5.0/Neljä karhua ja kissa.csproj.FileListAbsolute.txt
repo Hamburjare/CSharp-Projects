@@ -1,0 +1,16 @@
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\Neljä karhua ja kissa.exe
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\Neljä karhua ja kissa.deps.json
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\Neljä karhua ja kissa.runtimeconfig.json
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\Neljä karhua ja kissa.runtimeconfig.dev.json
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\Neljä karhua ja kissa.dll
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\ref\Neljä karhua ja kissa.dll
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\Neljä karhua ja kissa.pdb
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.csproj.AssemblyReference.cache
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.GeneratedMSBuildEditorConfig.editorconfig
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.AssemblyInfoInputs.cache
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.AssemblyInfo.cs
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.csproj.CoreCompileInputs.cache
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.dll
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\ref\Neljä karhua ja kissa.dll
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.pdb
+E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.genruntimeconfig.cache
