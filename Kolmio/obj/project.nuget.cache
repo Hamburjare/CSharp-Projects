@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jZj9g7Jbi/4S/LS1TcsA70gXkL3m6qRqUHTtSyCD/eazvjdJKBgNZp96J9Uxo8JD171SJKxHLn9ysWT4QgVaxQ==",
+  "success": true,
+  "projectFilePath": "C:\\!! Koodaajan Kuiva Uni\\Kolmio\\Kolmio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s2101085\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

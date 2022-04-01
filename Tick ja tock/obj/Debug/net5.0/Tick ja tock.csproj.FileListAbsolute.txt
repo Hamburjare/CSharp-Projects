@@ -1,0 +1,16 @@
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\bin\Debug\net5.0\Tick ja tock.exe
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\bin\Debug\net5.0\Tick ja tock.deps.json
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\bin\Debug\net5.0\Tick ja tock.runtimeconfig.json
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\bin\Debug\net5.0\Tick ja tock.runtimeconfig.dev.json
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\bin\Debug\net5.0\Tick ja tock.dll
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\bin\Debug\net5.0\ref\Tick ja tock.dll
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\bin\Debug\net5.0\Tick ja tock.pdb
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\obj\Debug\net5.0\Tick ja tock.csproj.AssemblyReference.cache
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\obj\Debug\net5.0\Tick ja tock.GeneratedMSBuildEditorConfig.editorconfig
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\obj\Debug\net5.0\Tick ja tock.AssemblyInfoInputs.cache
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\obj\Debug\net5.0\Tick ja tock.AssemblyInfo.cs
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\obj\Debug\net5.0\Tick ja tock.csproj.CoreCompileInputs.cache
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\obj\Debug\net5.0\Tick ja tock.dll
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\obj\Debug\net5.0\ref\Tick ja tock.dll
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\obj\Debug\net5.0\Tick ja tock.pdb
+C:\!! Koodaajan Kuiva Uni\Tick ja tock\obj\Debug\net5.0\Tick ja tock.genruntimeconfig.cache

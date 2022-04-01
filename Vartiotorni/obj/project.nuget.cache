@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0DHyKjplxdUTMdrGZLGTbRiDpG8LmEFExad0dnQsEx0cFOpsLxn/fsprVj3tGYHvzgHd0pOb9JYI5CObhNtSsw==",
+  "success": true,
+  "projectFilePath": "C:\\!! Koodaajan Kuiva Uni\\Vartiotorni\\Vartiotorni.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s2101085\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

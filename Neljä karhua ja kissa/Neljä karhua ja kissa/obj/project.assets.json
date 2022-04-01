@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kelts\\.nuget\\packages\\": {}
+    "C:\\Users\\s2101085\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\!!koodaajan märkä uni\\Neljä karhua ja kissa\\Neljä karhua ja kissa\\Neljä karhua ja kissa.csproj",
+      "projectUniqueName": "C:\\!! Koodaajan Kuiva Uni\\Neljä karhua ja kissa\\Neljä karhua ja kissa\\Neljä karhua ja kissa.csproj",
       "projectName": "Neljä karhua ja kissa",
-      "projectPath": "E:\\!!koodaajan märkä uni\\Neljä karhua ja kissa\\Neljä karhua ja kissa\\Neljä karhua ja kissa.csproj",
-      "packagesPath": "C:\\Users\\kelts\\.nuget\\packages\\",
-      "outputPath": "E:\\!!koodaajan märkä uni\\Neljä karhua ja kissa\\Neljä karhua ja kissa\\obj\\",
+      "projectPath": "C:\\!! Koodaajan Kuiva Uni\\Neljä karhua ja kissa\\Neljä karhua ja kissa\\Neljä karhua ja kissa.csproj",
+      "packagesPath": "C:\\Users\\s2101085\\.nuget\\packages\\",
+      "outputPath": "C:\\!! Koodaajan Kuiva Uni\\Neljä karhua ja kissa\\Neljä karhua ja kissa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kelts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\s2101085\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,6 +55,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

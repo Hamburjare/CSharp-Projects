@@ -14,3 +14,19 @@ E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Deb
 E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\ref\Neljä karhua ja kissa.dll
 E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.pdb
 E:\!!koodaajan märkä uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.genruntimeconfig.cache
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\Neljä karhua ja kissa.exe
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\Neljä karhua ja kissa.deps.json
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\Neljä karhua ja kissa.runtimeconfig.json
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\Neljä karhua ja kissa.runtimeconfig.dev.json
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\Neljä karhua ja kissa.dll
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\ref\Neljä karhua ja kissa.dll
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\bin\Debug\net5.0\Neljä karhua ja kissa.pdb
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.csproj.AssemblyReference.cache
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.GeneratedMSBuildEditorConfig.editorconfig
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.AssemblyInfoInputs.cache
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.AssemblyInfo.cs
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.csproj.CoreCompileInputs.cache
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.dll
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\ref\Neljä karhua ja kissa.dll
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.pdb
+C:\!! Koodaajan Kuiva Uni\Neljä karhua ja kissa\Neljä karhua ja kissa\obj\Debug\net5.0\Neljä karhua ja kissa.genruntimeconfig.cache

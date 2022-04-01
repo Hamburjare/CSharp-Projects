@@ -1,0 +1,16 @@
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\bin\Debug\net5.0\Ritariryhmä Liikkeelle.exe
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\bin\Debug\net5.0\Ritariryhmä Liikkeelle.deps.json
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\bin\Debug\net5.0\Ritariryhmä Liikkeelle.runtimeconfig.json
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\bin\Debug\net5.0\Ritariryhmä Liikkeelle.runtimeconfig.dev.json
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\bin\Debug\net5.0\Ritariryhmä Liikkeelle.dll
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\bin\Debug\net5.0\ref\Ritariryhmä Liikkeelle.dll
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\bin\Debug\net5.0\Ritariryhmä Liikkeelle.pdb
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\obj\Debug\net5.0\Ritariryhmä Liikkeelle.csproj.AssemblyReference.cache
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\obj\Debug\net5.0\Ritariryhmä Liikkeelle.GeneratedMSBuildEditorConfig.editorconfig
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\obj\Debug\net5.0\Ritariryhmä Liikkeelle.AssemblyInfoInputs.cache
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\obj\Debug\net5.0\Ritariryhmä Liikkeelle.AssemblyInfo.cs
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\obj\Debug\net5.0\Ritariryhmä Liikkeelle.csproj.CoreCompileInputs.cache
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\obj\Debug\net5.0\Ritariryhmä Liikkeelle.dll
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\obj\Debug\net5.0\ref\Ritariryhmä Liikkeelle.dll
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\obj\Debug\net5.0\Ritariryhmä Liikkeelle.pdb
+C:\!! Koodaajan Kuiva Uni\Ritariryhmä Liikkeelle\obj\Debug\net5.0\Ritariryhmä Liikkeelle.genruntimeconfig.cache

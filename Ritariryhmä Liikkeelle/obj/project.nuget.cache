@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yO99BrARmulvOA4LXWYrJbNaXIgKjSfDpXlI5PrXPFWRsXuuiGQ8aLJeBarJOH1TqI2UBHtsG1QtW1NvWMihVA==",
+  "success": true,
+  "projectFilePath": "C:\\!! Koodaajan Kuiva Uni\\Ritariryhmä Liikkeelle\\Ritariryhmä Liikkeelle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s2101085\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

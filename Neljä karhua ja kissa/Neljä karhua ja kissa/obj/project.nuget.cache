@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cTdqM6/Uh/G9kX4JuqyolBGW5XuU0jnIrOd1HkVzcKJzc9pjBeKvGBna8UtgLJ0NseRtpdQfqpuZBjsLpYAH8w==",
+  "dgSpecHash": "sUpzayagTgBaJHE+GhKOXwPZAU2kNHiAXA/4BZhDcbn28CIyqtNZ/GAH8wFWVygL7Wy1r00cPlCwwPL98L9ogg==",
   "success": true,
-  "projectFilePath": "E:\\!!koodaajan märkä uni\\Neljä karhua ja kissa\\Neljä karhua ja kissa\\Neljä karhua ja kissa.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\!! Koodaajan Kuiva Uni\\Neljä karhua ja kissa\\Neljä karhua ja kissa\\Neljä karhua ja kissa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s2101085\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

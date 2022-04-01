@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SVJuIPRRQNgqW+ZE0F0TZ//UNroyuBov39I9Jd5LhpbwJMHLwLfNLRTrmgnSuUsAgAXxi2eioKeypH+yi/tY5A==",
+  "success": true,
+  "projectFilePath": "C:\\!! Koodaajan Kuiva Uni\\Tick ja tock\\Tick ja tock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s2101085\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
