@@ -1,0 +1,16 @@
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\bin\Debug\net5.0\Taulukoiden monistus.exe
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\bin\Debug\net5.0\Taulukoiden monistus.deps.json
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\bin\Debug\net5.0\Taulukoiden monistus.runtimeconfig.json
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\bin\Debug\net5.0\Taulukoiden monistus.runtimeconfig.dev.json
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\bin\Debug\net5.0\Taulukoiden monistus.dll
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\bin\Debug\net5.0\Taulukoiden monistus.pdb
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.csproj.AssemblyReference.cache
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.GeneratedMSBuildEditorConfig.editorconfig
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.AssemblyInfoInputs.cache
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.AssemblyInfo.cs
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.csproj.CoreCompileInputs.cache
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.dll
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\obj\Debug\net5.0\refint\Taulukoiden monistus.dll
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.pdb
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\obj\Debug\net5.0\Taulukoiden monistus.genruntimeconfig.cache
+A:\!!koodaajan märkä uni\C# Projects\Taulukoiden monistus\obj\Debug\net5.0\ref\Taulukoiden monistus.dll

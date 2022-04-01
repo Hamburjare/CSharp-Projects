@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Taulukoiden monistus/1.0.0": {
+        "runtime": {
+          "Taulukoiden monistus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taulukoiden monistus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
