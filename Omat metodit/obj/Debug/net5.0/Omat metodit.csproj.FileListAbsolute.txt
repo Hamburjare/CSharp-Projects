@@ -1,0 +1,16 @@
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\bin\Debug\net5.0\Omat metodit.exe
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\bin\Debug\net5.0\Omat metodit.deps.json
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\bin\Debug\net5.0\Omat metodit.runtimeconfig.json
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\bin\Debug\net5.0\Omat metodit.runtimeconfig.dev.json
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\bin\Debug\net5.0\Omat metodit.dll
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\bin\Debug\net5.0\Omat metodit.pdb
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\obj\Debug\net5.0\Omat metodit.csproj.AssemblyReference.cache
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\obj\Debug\net5.0\Omat metodit.GeneratedMSBuildEditorConfig.editorconfig
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\obj\Debug\net5.0\Omat metodit.AssemblyInfoInputs.cache
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\obj\Debug\net5.0\Omat metodit.AssemblyInfo.cs
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\obj\Debug\net5.0\Omat metodit.csproj.CoreCompileInputs.cache
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\obj\Debug\net5.0\Omat metodit.dll
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\obj\Debug\net5.0\refint\Omat metodit.dll
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\obj\Debug\net5.0\Omat metodit.pdb
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\obj\Debug\net5.0\Omat metodit.genruntimeconfig.cache
+C:\!! Koodaajan Kuiva Uni\C# Projects\Omat metodit\obj\Debug\net5.0\ref\Omat metodit.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+w90yM4tjkoqM8uoOm0aTKpVwU/6Q9uXp6yMqMIDTJaIpTBCWg7bYe1FUwxgSzTaV/RMFoDDz2wBmR7r2ptPSg==",
+  "success": true,
+  "projectFilePath": "C:\\!! Koodaajan Kuiva Uni\\C# Projects\\Omat metodit\\Omat metodit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s2101085\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
