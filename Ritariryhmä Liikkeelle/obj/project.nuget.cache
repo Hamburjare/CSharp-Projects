@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yO99BrARmulvOA4LXWYrJbNaXIgKjSfDpXlI5PrXPFWRsXuuiGQ8aLJeBarJOH1TqI2UBHtsG1QtW1NvWMihVA==",
+  "dgSpecHash": "2K78hkn/Y+aWogiB6ei8OIR1IuwFDXR7CSlDDiKEeQNEupraoNsNL7Ir52DhIDR7y9YPPOXY+a+QAFu7LdfM1Q==",
   "success": true,
-  "projectFilePath": "C:\\!! Koodaajan Kuiva Uni\\Ritariryhmä Liikkeelle\\Ritariryhmä Liikkeelle.csproj",
+  "projectFilePath": "C:\\!! Koodaajan Kuiva Uni\\C# Projects\\Ritariryhmä Liikkeelle\\Ritariryhmä Liikkeelle.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\s2101085\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+    "C:\\Users\\s2101085\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],
   "logs": []
 }

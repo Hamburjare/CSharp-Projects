@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\!! Koodaajan Kuiva Uni\\Ritariryhmä Liikkeelle\\Ritariryhmä Liikkeelle.csproj": {}
+    "C:\\!! Koodaajan Kuiva Uni\\C# Projects\\Ritariryhmä Liikkeelle\\Ritariryhmä Liikkeelle.csproj": {}
   },
   "projects": {
-    "C:\\!! Koodaajan Kuiva Uni\\Ritariryhmä Liikkeelle\\Ritariryhmä Liikkeelle.csproj": {
+    "C:\\!! Koodaajan Kuiva Uni\\C# Projects\\Ritariryhmä Liikkeelle\\Ritariryhmä Liikkeelle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\!! Koodaajan Kuiva Uni\\Ritariryhmä Liikkeelle\\Ritariryhmä Liikkeelle.csproj",
+        "projectUniqueName": "C:\\!! Koodaajan Kuiva Uni\\C# Projects\\Ritariryhmä Liikkeelle\\Ritariryhmä Liikkeelle.csproj",
         "projectName": "Ritariryhmä Liikkeelle",
-        "projectPath": "C:\\!! Koodaajan Kuiva Uni\\Ritariryhmä Liikkeelle\\Ritariryhmä Liikkeelle.csproj",
+        "projectPath": "C:\\!! Koodaajan Kuiva Uni\\C# Projects\\Ritariryhmä Liikkeelle\\Ritariryhmä Liikkeelle.csproj",
         "packagesPath": "C:\\Users\\s2101085\\.nuget\\packages\\",
-        "outputPath": "C:\\!! Koodaajan Kuiva Uni\\Ritariryhmä Liikkeelle\\obj\\",
+        "outputPath": "C:\\!! Koodaajan Kuiva Uni\\C# Projects\\Ritariryhmä Liikkeelle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s2101085\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.13, 5.0.13]"
+              "version": "[5.0.15, 5.0.15]"
             }
           ],
           "frameworkReferences": {
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
