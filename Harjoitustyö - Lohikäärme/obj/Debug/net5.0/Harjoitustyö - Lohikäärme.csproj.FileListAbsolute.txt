@@ -1,0 +1,16 @@
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\bin\Debug\net5.0\Harjoitustyö - Lohikäärme.exe
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\bin\Debug\net5.0\Harjoitustyö - Lohikäärme.deps.json
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\bin\Debug\net5.0\Harjoitustyö - Lohikäärme.runtimeconfig.json
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\bin\Debug\net5.0\Harjoitustyö - Lohikäärme.runtimeconfig.dev.json
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\bin\Debug\net5.0\Harjoitustyö - Lohikäärme.dll
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\bin\Debug\net5.0\Harjoitustyö - Lohikäärme.pdb
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\obj\Debug\net5.0\Harjoitustyö - Lohikäärme.csproj.AssemblyReference.cache
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\obj\Debug\net5.0\Harjoitustyö - Lohikäärme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\obj\Debug\net5.0\Harjoitustyö - Lohikäärme.AssemblyInfoInputs.cache
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\obj\Debug\net5.0\Harjoitustyö - Lohikäärme.AssemblyInfo.cs
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\obj\Debug\net5.0\Harjoitustyö - Lohikäärme.csproj.CoreCompileInputs.cache
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\obj\Debug\net5.0\Harjoitustyö - Lohikäärme.dll
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\obj\Debug\net5.0\refint\Harjoitustyö - Lohikäärme.dll
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\obj\Debug\net5.0\Harjoitustyö - Lohikäärme.pdb
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\obj\Debug\net5.0\Harjoitustyö - Lohikäärme.genruntimeconfig.cache
+C:\Code\C# Projects\Harjoitustyö - Lohikäärme\obj\Debug\net5.0\ref\Harjoitustyö - Lohikäärme.dll
