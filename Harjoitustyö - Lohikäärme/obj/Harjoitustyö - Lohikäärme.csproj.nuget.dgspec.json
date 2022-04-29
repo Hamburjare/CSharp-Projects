@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj": {}
+    "A:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj": {}
   },
   "projects": {
-    "C:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj": {
+    "A:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj",
+        "projectUniqueName": "A:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj",
         "projectName": "Harjoitustyö - Lohikäärme",
-        "projectPath": "C:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj",
-        "packagesPath": "C:\\Users\\s2101085\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\obj\\",
+        "projectPath": "A:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj",
+        "packagesPath": "C:\\Users\\kelts\\.nuget\\packages\\",
+        "outputPath": "A:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s2101085\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kelts\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,18 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.16, 5.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

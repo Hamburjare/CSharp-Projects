@@ -1,7 +1,7 @@
 ﻿using System;
 
 // Määritetään lohikäärmeelle hp
-int dragonHp = 15;
+int dragonHp = 10;
 // Määritetään kaupungille hp
 int townHp = 15;
 // Määritetään kierros
@@ -15,11 +15,11 @@ int cannonDistance = 0;
 
 // Kysytään käyttäjältä haluaako se pelata yksin
 Console.Write("Haluatko yksinpelin? (y/n) ");
-string playerCount = Convert.ToString(Console.ReadLine());
+string playerCount = Console.ReadLine();
 Console.Clear();
 
 // Mikäli käyttäjä valitsi pelaavansa yksin generoidaan random numero 0-100
-if (playerCount == "y" || playerCount == "yes" || playerCount == "kyllä")
+if (playerCount.ToLower() == "y" || playerCount.ToLower() == "yes")
 {
     // Tallennetaan "dragonDistance" muuttujaan "RandomDragonDistance" tulos
     dragonDistance = RandomDragonDistance();
@@ -49,6 +49,7 @@ Console.ForegroundColor = ConsoleColor.White;
 // Looppi joka pyörii niin kauan kun muuttuja "dragonHp" <= 0 tai muuttuja "townHp" <= 0
 while (dragonHp > 0 && townHp > 0)
 {
+    
     string status = $"STATUS: Kierros: {round}  Lohikäärme: {dragonHp}/10  Kaupunki: {townHp}/15";
 
     // Printtaa viivan jonka pituus on muuttujan "status" pituus + 4 merkkiä
@@ -143,7 +144,8 @@ void GetCannonDistance()
     if (distance == dragonDistance)
     {
         // Jos pelaajan asettama luku on sama kuin kuinka kaukana lohikäärme on printataan "Osuma!" konsoliin
-        Console.ForegroundColor = ConsoleColor.DarkBlue;
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.Beep(1000, 200);
         Console.WriteLine("Osuma!");
 
         // Vähennetään lohikäärmeeltä hpta riippuen siitä paljonko kanuuna tekee damagea joka saadaan muuttujasta "cannonDamage"
@@ -153,6 +155,7 @@ void GetCannonDistance()
     {
         // Jos pelaajan antama luku on suurempi kuin lohikäärmeen etäisyys kaupungista siitä ilmoitetaan pelaajalle
         Console.ForegroundColor = ConsoleColor.Blue;
+        Console.Beep(500, 200);
         Console.WriteLine("Tähtäsit liian pitkälle ja luoti meni lohikäärmeen yli!");
         Console.ForegroundColor = ConsoleColor.White;
     }
@@ -160,6 +163,7 @@ void GetCannonDistance()
     {
         // Jos pelaajan antama luku on pienempi kuin lohikäärmeen etäisyys kaupungista siitä ilmoitetaan pelaajalle
         Console.ForegroundColor = ConsoleColor.Blue;
+        Console.Beep(500, 200);
         Console.WriteLine("Tähtäsit liian lähelle ja luoti meni ei ylettynyt lohikäärmeen luokse!");
         Console.ForegroundColor = ConsoleColor.White;
     }
@@ -200,4 +204,6 @@ void PrintResults()
         // Tulostetaan paljonko lohikäärmeelle jäi healthia ja varmistetaan, että luku ei ole pienempi kuin 0
         Console.WriteLine($"Lohikäärmeen hp: {Math.Max(dragonHp, 0)}");
     }
+
 }
+

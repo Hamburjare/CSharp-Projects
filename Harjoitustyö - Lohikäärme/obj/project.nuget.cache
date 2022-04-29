@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pq9D/nFmmMFMxqtecH6863Ys9vQym0KSgmtlV/JVrdJOrsA2FhIwh289TwY75Sp5+AwMa6uaLhOPKqnWTjv41A==",
+  "dgSpecHash": "QUEVdIkN1PLzAb4WgM023NljzSS2lBOAV87a+/D61UnASJgQd3iN8lh5VxGYkM12aEVP4Z/YLO9klq0Iygrt6Q==",
   "success": true,
-  "projectFilePath": "C:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\s2101085\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "A:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
