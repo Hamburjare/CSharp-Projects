@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\!!koodaajan märkä uni\\C# Projects\\Painoindeksi\\Painoindeksi.csproj": {}
+    "A:\\Code\\C# Projects\\Painoindeksi\\Painoindeksi.csproj": {}
   },
   "projects": {
-    "A:\\!!koodaajan märkä uni\\C# Projects\\Painoindeksi\\Painoindeksi.csproj": {
+    "A:\\Code\\C# Projects\\Painoindeksi\\Painoindeksi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\!!koodaajan märkä uni\\C# Projects\\Painoindeksi\\Painoindeksi.csproj",
+        "projectUniqueName": "A:\\Code\\C# Projects\\Painoindeksi\\Painoindeksi.csproj",
         "projectName": "Painoindeksi",
-        "projectPath": "A:\\!!koodaajan märkä uni\\C# Projects\\Painoindeksi\\Painoindeksi.csproj",
+        "projectPath": "A:\\Code\\C# Projects\\Painoindeksi\\Painoindeksi.csproj",
         "packagesPath": "C:\\Users\\kelts\\.nuget\\packages\\",
-        "outputPath": "A:\\!!koodaajan märkä uni\\C# Projects\\Painoindeksi\\obj\\",
+        "outputPath": "A:\\Code\\C# Projects\\Painoindeksi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kelts\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

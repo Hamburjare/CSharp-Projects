@@ -14,3 +14,19 @@ A:\!!koodaajan märkä uni\C# Projects\Painoindeksi\obj\Debug\net5.0\refint\Pain
 A:\!!koodaajan märkä uni\C# Projects\Painoindeksi\obj\Debug\net5.0\Painoindeksi.pdb
 A:\!!koodaajan märkä uni\C# Projects\Painoindeksi\obj\Debug\net5.0\Painoindeksi.genruntimeconfig.cache
 A:\!!koodaajan märkä uni\C# Projects\Painoindeksi\obj\Debug\net5.0\ref\Painoindeksi.dll
+A:\Code\C# Projects\Painoindeksi\bin\Debug\net5.0\Painoindeksi.exe
+A:\Code\C# Projects\Painoindeksi\bin\Debug\net5.0\Painoindeksi.deps.json
+A:\Code\C# Projects\Painoindeksi\bin\Debug\net5.0\Painoindeksi.runtimeconfig.json
+A:\Code\C# Projects\Painoindeksi\bin\Debug\net5.0\Painoindeksi.runtimeconfig.dev.json
+A:\Code\C# Projects\Painoindeksi\bin\Debug\net5.0\Painoindeksi.dll
+A:\Code\C# Projects\Painoindeksi\bin\Debug\net5.0\Painoindeksi.pdb
+A:\Code\C# Projects\Painoindeksi\obj\Debug\net5.0\Painoindeksi.csproj.AssemblyReference.cache
+A:\Code\C# Projects\Painoindeksi\obj\Debug\net5.0\Painoindeksi.GeneratedMSBuildEditorConfig.editorconfig
+A:\Code\C# Projects\Painoindeksi\obj\Debug\net5.0\Painoindeksi.AssemblyInfoInputs.cache
+A:\Code\C# Projects\Painoindeksi\obj\Debug\net5.0\Painoindeksi.AssemblyInfo.cs
+A:\Code\C# Projects\Painoindeksi\obj\Debug\net5.0\Painoindeksi.csproj.CoreCompileInputs.cache
+A:\Code\C# Projects\Painoindeksi\obj\Debug\net5.0\Painoindeksi.dll
+A:\Code\C# Projects\Painoindeksi\obj\Debug\net5.0\refint\Painoindeksi.dll
+A:\Code\C# Projects\Painoindeksi\obj\Debug\net5.0\Painoindeksi.pdb
+A:\Code\C# Projects\Painoindeksi\obj\Debug\net5.0\Painoindeksi.genruntimeconfig.cache
+A:\Code\C# Projects\Painoindeksi\obj\Debug\net5.0\ref\Painoindeksi.dll
