@@ -1,0 +1,56 @@
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Tietokantasovelluksen luominen.exe
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Tietokantasovelluksen luominen.deps.json
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Tietokantasovelluksen luominen.runtimeconfig.json
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Tietokantasovelluksen luominen.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Tietokantasovelluksen luominen.pdb
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\System.Drawing.Common.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\System.Runtime.Caching.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\System.Security.Permissions.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\System.Windows.Extensions.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\obj\Debug\net6.0\Tietokantasovelluksen luominen.csproj.AssemblyReference.cache
+A:\Code\C# Projects\Tietokantasovelluksen luominen\obj\Debug\net6.0\Tietokantasovelluksen luominen.GeneratedMSBuildEditorConfig.editorconfig
+A:\Code\C# Projects\Tietokantasovelluksen luominen\obj\Debug\net6.0\Tietokantasovelluksen luominen.AssemblyInfoInputs.cache
+A:\Code\C# Projects\Tietokantasovelluksen luominen\obj\Debug\net6.0\Tietokantasovelluksen luominen.AssemblyInfo.cs
+A:\Code\C# Projects\Tietokantasovelluksen luominen\obj\Debug\net6.0\Tietokantasovelluksen luominen.csproj.CoreCompileInputs.cache
+A:\Code\C# Projects\Tietokantasovelluksen luominen\obj\Debug\net6.0\Tietokantasovelluksen luominen.csproj.CopyComplete
+A:\Code\C# Projects\Tietokantasovelluksen luominen\obj\Debug\net6.0\Tietokantasovelluksen luominen.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\obj\Debug\net6.0\refint\Tietokantasovelluksen luominen.dll
+A:\Code\C# Projects\Tietokantasovelluksen luominen\obj\Debug\net6.0\Tietokantasovelluksen luominen.pdb
+A:\Code\C# Projects\Tietokantasovelluksen luominen\obj\Debug\net6.0\Tietokantasovelluksen luominen.genruntimeconfig.cache
+A:\Code\C# Projects\Tietokantasovelluksen luominen\obj\Debug\net6.0\ref\Tietokantasovelluksen luominen.dll
