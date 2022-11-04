@@ -1,38 +1,43 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kelts\\.nuget\\packages\\": {}
+    "C:\\Users\\s2101085\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj",
+      "projectUniqueName": "C:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj",
       "projectName": "Harjoitustyö - Lohikäärme",
-      "projectPath": "A:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj",
-      "packagesPath": "C:\\Users\\kelts\\.nuget\\packages\\",
-      "outputPath": "A:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\obj\\",
+      "projectPath": "C:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\Harjoitustyö - Lohikäärme.csproj",
+      "packagesPath": "C:\\Users\\s2101085\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\C# Projects\\Harjoitustyö - Lohikäärme\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\kelts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\s2101085\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -43,15 +48,16 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
